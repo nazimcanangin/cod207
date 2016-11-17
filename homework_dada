@@ -1,0 +1,23 @@
+size(640, 360);
+background(255,255,255);
+noStroke();
+
+textFont(createFont("SourceCodePro-Regular.ttf",24));
+
+
+fill(0);
+textSize(60); 
+text("Lorem" ,100, 100);
+
+
+textSize(100); 
+text("ipsum " , 320, 160);
+
+textSize(10); 
+text("is simply dummy ", 250, 200);
+
+textSize(30); 
+text("text.", 350, 250);
+
+textSize(30); 
+text("Lorem Ipsum.", 270, 320);
