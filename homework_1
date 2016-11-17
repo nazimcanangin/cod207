@@ -1,0 +1,23 @@
+void setup  () {
+  size (500,400);
+}
+
+void draw (){
+  background (#000000);
+  noStroke();
+
+
+  fill(#9c1212);
+
+  rect(10,10,230,130);
+  rect(260,260,230,130);
+
+  fill(#FFFFFF);
+
+  rect(70,150,180,240);
+  rect(250,10,100,130);
+
+  fill(#ed9c00);
+  rect(10,150,50,240);
+  rect(360,10,130,240);
+}
